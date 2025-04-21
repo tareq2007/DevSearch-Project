@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-^vn$n^6t&&7(vgk-up$dzld*o!m*j)ju=me^apmmuw=#%h6=qs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['devsearch-project-mjjb.onrender.com']
 
 
 # Application definition
